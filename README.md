@@ -66,7 +66,7 @@ A modern Twitter interface clone.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rethabile-vryman-110971419/
-- 🌐 Portfolio: https://rococo-pasca-86784e.netlify.app/
+- 🌐 Portfolio: https://bespoke-kulfi-b96b2c.netlify.app/
 - 💻 GitHub: https://github.com/vrymanrethabile-cpu
 
 ---
