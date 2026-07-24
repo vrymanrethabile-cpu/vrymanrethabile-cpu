@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ree</h1>
+<h1 align="center">Hi 👋, I'm Rethabile Vryman.</h1>
 <h3 align="center">Software Engineering Student | Aspiring Full-Stack Developer | South Africa 🇿🇦</h3>
 
 <p align="center">
